@@ -1,0 +1,4 @@
+.tox/
+pysax.egg-info/
+.ropeproject/
+*.pyc
